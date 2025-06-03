@@ -1,0 +1,13 @@
+.home-page {
+  height: 100vh;
+  background-image: url('/images/lost-and-found.jpg');
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+
+.overlay {
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* semi-transparent dark layer */
+  padding: 2rem;
+}
