@@ -8,6 +8,6 @@
 
 .overlay {
   height: 100%;
-  background-color: rgba(0, 0, 0, 0.5); /* semi-transparent dark layer */
+  background-color: rgba(0, 0, 0, 0.5); 
   padding: 2rem;
 }

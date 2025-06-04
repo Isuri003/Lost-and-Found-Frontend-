@@ -58,7 +58,7 @@ const AddItem = () => {
         console.error('Error parsing items:', e);
       }
     }
-    // Initialize with default items
+    
     setItems(defaultItems);
     localStorage.setItem('items', JSON.stringify(defaultItems));
   }, []);
